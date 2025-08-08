@@ -60,3 +60,7 @@ The model_v6_23.hdf5 file is a CNN model trained on a facial expression dataset 
 
 ---
 
+## 👨‍💻 Author
+ Bardia Javadi   
+  📧 bardia.javadi.2003@gmail.com    
+  🌐 GitHub: [@bardiw](https://github.com/bardiw)   
