@@ -35,3 +35,20 @@ Install the following dependencies before running the project:
 
 ```bash
 pip install opencv-python mtcnn keras numpy
+```
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+
+```
+git clone https://github.com/bardiw/Image_Recognition_with_Emotions.git
+cd Image_Recognition_with_Emotions
+```
+2. Run the script:
+
+```
+python main.py
+```
+3. The processed image will be saved as final_image.jpg and displayed in a pop-up window.
