@@ -49,6 +49,14 @@ cd Image_Recognition_with_Emotions
 2. Run the script:
 
 ```
-python main.py
+python image_recognition_with_emotions.py
 ```
 3. The processed image will be saved as final_image.jpg and displayed in a pop-up window.
+
+---
+
+## 🧠 Model Information
+The model_v6_23.hdf5 file is a CNN model trained on a facial expression dataset for emotion classification.
+
+---
+
