@@ -20,13 +20,12 @@ It draws colored rectangles around the detected faces and labels them with the p
 
 ---
 
-## 📂 Project Structure
-Image_Recognition_with_Emotions/
-│
-├── image4.jpg # Sample input image
-├── model_v6_23.hdf5 # Pre-trained emotion recognition model
-├── image_recognition_with_emotions.py # Main project script
-└── README.md # Project documentation
+## 📂 Project Structure  
+Image_Recognition_with_Emotions/   
+├── image4.jpg # Sample input image   
+├── model_v6_23.hdf5 # Pre-trained emotion recognition model   
+├── image_recognition_with_emotions.py # Main project script   
+└── README.md # Project documentation    
 
 ---
 
